@@ -1,4 +1,4 @@
-# LP2-semana06a: CRUD TBUSUARIO
+# LP2-semana06a: CRUD y recursos properties
 
 Ejemplo de CRUD a una tabla usuario. Se usa recursos properties y la librería fmt de JSTL
 
